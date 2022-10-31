@@ -1,0 +1,7 @@
+# Ignore execution file
+*
+!*/
+!*.*
+
+.env
+*.zip
